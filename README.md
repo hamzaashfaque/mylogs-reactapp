@@ -1,5 +1,5 @@
 # mylogs-reactapp
-I was trying to write a front end for blog site app using react. This was more of a personal hobby.
+I was trying to write a front end for blog site app using react. This was more of a personal hobby. The project is incomplete.
 
 The app needs to install packages first using a node package manager. In this case, I'm using npm. Go to `...\blog-progect` directory using terminal and then install packages using
 
